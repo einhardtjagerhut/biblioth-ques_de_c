@@ -1,13 +1,13 @@
 # bibliotheques_de_c
 # Bibliotheques logicielles de langue C.
 
-## I copied these links from this source: [koz.ross/awesome-c](https://notabug.org/koz.ross/awesome-c).
-## Ich habe diese Links von dieser Quelle:  [koz.ross/awesome-c](https://notabug.org/koz.ross/awesome-c) kopiert.
-## J'ai copié ces links depuis cette source: [koz.ross/awesome-c](https://notabug.org/koz.ross/awesome-c).
+### I copied these links from this source: [koz.ross/awesome-c](https://notabug.org/koz.ross/awesome-c).
+### Ich habe diese Links von dieser Quelle:  [koz.ross/awesome-c](https://notabug.org/koz.ross/awesome-c) kopiert.
+### J'ai copié ces links depuis cette source: [koz.ross/awesome-c](https://notabug.org/koz.ross/awesome-c).
 
-## Contents ##
-## Contenu ##
-## Inhalt ##
+## Contents / Inhalt
+
+
 * [AI](#ai)
 * [Build Systems](#build-systems)
 * [Compilers](#compilers)
