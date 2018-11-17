@@ -425,6 +425,10 @@ Widget toolkits, or things meant to be used in a similar way to them.
 * [Tk][19] - Basic widget toolkit. Part of Tcl/Tk. [``TCL``][TCL]
 * [XForms Toolkit][21] - Widget toolkit designed for the XWindow
   system. [``LGPL-2.1-only``][LGPL-2.1-only]
+  
+## TUI ##
+Terminal-based User Interface
+* [NCURSES](https://www.gnu.org/software/ncurses/) - NCURSES
 
 ## Hashing ##
 
